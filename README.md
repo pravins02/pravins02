@@ -6,7 +6,7 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I like playing outdoor games.
 
-![](https://komarev.com/ghpvc/?username=pravins02)
+![](https://komarev.com/ghpvc/?username=pravins02style=flat-square)
 <!---
 pravins02/pravins02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
