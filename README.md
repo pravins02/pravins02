@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=pravins02&style=flat-square)
+![](https://komarev.com/ghpvc/?username=pravins02&style=flat-square&color=green)
 
 
 - 👋 Hi, I’m Pravin Sharma and I am a 4th year PhD candidate in the [Department of Applied Science](https://wm.edu/as/appliedscience), [William & Mary](https://wm.edu). I work in field of Ultrafast Magnetization dynamics with Prof. Gunter Luepke in [The Optics and Laser Lab](https://sites.google.com/email.wm.edu/opticsandlaserlab/home).  
